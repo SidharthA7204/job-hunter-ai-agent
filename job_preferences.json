@@ -1,0 +1,37 @@
+{
+    "job_title": "React Native Developer",
+    "location": "Bangalore, Karnataka, India",
+    "preferred_locations": [
+        "Bangalore",
+        "Remote",
+        "Mumbai",
+        "Pune"
+    ],
+    "experience_level": "2-5 years",
+    "salary_min": 500000,
+    "salary_max": 1500000,
+    "job_type": [
+        "Full-time",
+        "Contract"
+    ],
+    "required_skills": [
+        "React",
+        "React Native",
+        "JavaScript",
+        "TypeScript"
+    ],
+    "preferred_skills": [
+        "Java",
+        "Python",
+        "Node.js"
+    ],
+    "work_mode": [
+        "Remote",
+        "Hybrid",
+        "On-site"
+    ],
+    "company_size": null,
+    "industry": null
+}
+
+
